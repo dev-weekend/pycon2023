@@ -1,6 +1,6 @@
 {
   "jupyter-config-data": {
     "collaborative": true,
-    "fullWebRtcSignalingUrls": ["wss://rtc-signaler.weekend.dev:4444"]
+    "fullWebRtcSignalingUrls": ["wss://rtc-signaler.weekend.dev"]
   }
 }
