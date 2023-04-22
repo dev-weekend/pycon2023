@@ -1,6 +1,6 @@
 {
   "jupyter-config-data": {
     "collaborative": true,
-    "fullWebRtcSignalingUrls": ["p2pcf.wolfgroup.workers.dev"]
+    "fullWebRtcSignalingUrls": ["wss://p2pcf.wolfgroup.workers.dev"]
   }
 }
